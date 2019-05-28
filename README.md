@@ -1,2 +1,2 @@
 # analytics
-©️ analytics repo for creuna
+©️ analytics repo for Creuna
