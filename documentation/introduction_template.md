@@ -8,6 +8,7 @@
 
 - [Client Name](#client-name)
   - [Table of Contents](#table-of-contents)
+  - [Background](#background)
   - [Brief](#brief)
   - [Quick Facts](#quick-facts)
   - [Value Conversation](#value-conversation)
@@ -18,9 +19,13 @@
     - [Future State(s)](#future-states)
     - [Value](#value)
 
+## Background
+
+*(what have we done so far)*
+
 ## Brief
 
-*(what is the main assignment + bullet point summaries)*
+*(what is the new or main assignment + bullet point summaries)*
 
 ```markdown
 - item
@@ -58,13 +63,11 @@ The value conversation is a list of questions that help us understand what value
 ### Company Background
 
 - What does your company do?
-- How long have you been in business?
-- Where is your leadership group?
-- How many offices do you have?
-- Who are the key people to get onboard?
+- Who are the key people to get onboard on this project?
 
 ### Current Situation
 
+- How do you make decisions today?
 - How far have you come in your data and analytics journey?
 - How satisfied are you with how you’re working with data today?
 - What tools are you currently using?
@@ -80,7 +83,7 @@ The value conversation is a list of questions that help us understand what value
 - Why not recruit internally to solve this problem?
 - How have you tried to solved this problem before?
 - How satisfied where you with your previous attempt(s) at solving this problem?
-- What are you the most worried about?
+- What are you most worried about concerning this project?
 - Ideally, how would your condition improve as a result of this project?
 - What would be the difference in the organization if we were successful?
 - If you had to set priorities now, what three things must be accomplished?
