@@ -51,7 +51,7 @@ These are the goals that Creuna set for 2021.
 There are a handful of utility shell scripts that can automate some steps.
 
 - `build.sh` creates client summaries and directory structures.
-- `prop.sh` creates new proposal documents.
+- `prop.sh` creates new proposal document.
 
 ```bash
 # here’s an example running the build script
