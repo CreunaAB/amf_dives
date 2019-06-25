@@ -4,59 +4,29 @@
 
 ## Table of Contents
 
-- [Creuna Analytics 2.0](#creuna-analytics-20)
-  - [Table of Contents](#table-of-contents)
-  - [Creuna’s Pillars](#creunas-pillars)
-  - [Areas of Improvement](#areas-of-improvement)
-  - [Goals 2021](#goals-2021)
-  - [Utilities](#utilities)
-  - [Help & Improvements](#help--improvements)
+- [Creuna Analytics 2.0](#Creuna-Analytics-20)
+  - [Table of Contents](#Table-of-Contents)
+  - [Deep Dives](#Deep-Dives)
+  - [Scripts](#Scripts)
+  - [Outputs](#Outputs)
+  - [Utilities](#Utilities)
+  - [Help & Improvements](#Help--Improvements)
 
-## Creuna’s Pillars
+## Deep Dives
 
-These are Creuna’s cornerstones.
+The `dives` folder contains deep dive analyses using the `workflowr` package.
 
-- Business
-- Design
-- Technology
-- Communication
-- Process
+## Scripts
 
-## Areas of Improvement
+The `scripts` folder contains scripts for parameterized analyses.
 
-These are the areas that we want (and need) to get better at according to us and our clients.
+## Outputs
 
-1. Understanding our clients’ customers and target groups.
-2. Understanding our clients’ market(s).
-3. Showcasing our knowledge of the “digital” landscape.
-4. Be more “proactive”.
-5. Have clearer goals and measurements.
-6. Improve our project management process.
-7. Make clearer connections between our deliverables and their value.
-
-## Goals 2021
-
-These are the goals that Creuna set for 2021.
-
-- 10% margins (company wise).
-- Sweden’s best employer and colleagues.
-- Sweden’s most satisfied customers.
-- Raise our hourly rate.
-- 32% margins on customer sales.
-- New ways of packaging services.
-- Introduce value based pricing.
+The `outputs` folder contains script outputs.
 
 ## Utilities
 
-There are a handful of utility shell scripts that can automate some steps.
-
-- `build.sh` creates client summaries and directory structures.
-- `prop.sh` creates new proposal document.
-
-```bash
-# here’s an example running the build script
-bash build.sh
-```
+The `utilities` folder contains scripts and templates to automate project setups.
   
 ## Help & Improvements
 

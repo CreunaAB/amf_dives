@@ -1,9 +1,15 @@
 # Change Log
 
-## [v0.0.1](https://github.com/CreunaAB/analytics/tree/v0.0.1) (2019-06-03)
+## [v0.0.1](https://github.com/CreunaAB/analytics/tree/v0.0.1) (2019-06-25)
 **Implemented enhancements:**
 
 - Discovery and exploration framework [\#3](https://github.com/CreunaAB/analytics/issues/3)
+
+**Closed issues:**
+
+- Base Analytics Offering [\#4](https://github.com/CreunaAB/analytics/issues/4)
+- Review Panoply [\#2](https://github.com/CreunaAB/analytics/issues/2)
+- Review Heap Analytics [\#1](https://github.com/CreunaAB/analytics/issues/1)
 
 
 
